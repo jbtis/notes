@@ -1,4 +1,4 @@
-## Welcome to my notes
+## What is this?
 
 Notes from important stuff I learned (and I'm learning) in college.
 
