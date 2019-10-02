@@ -1,4 +1,4 @@
-### Notes
+### Topics
 
   - [Deep Learning and AI](http://jbtis.github.io/notes/ai/)
   - [Programming](http://jbtis.github.io/notes/programming/programming_toc.md)
