@@ -12,4 +12,6 @@ Let's break down the formula:
 - __*w*__  is also an input vector that represents the weight of that connection
 - *b* is a number which is a bias. This number will either "help" or "hinder" the ability of the neuron to make it past the threshold value.
 
+So if the dot product with the help of the bias make it past the threshold, the perceptron will 'fire' and output a 1, if not then it will output a 0. 
+
 
