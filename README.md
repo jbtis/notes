@@ -1,6 +1,6 @@
 ## Welcome to my notes
 
-In here, I will write down what I feel is important and well be useful in the future...
+In here, I will write down what I feel is important and well be useful in the future.
 
 ### Notes
 
