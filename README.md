@@ -9,6 +9,7 @@ In here, I will write down what I feel is important and well be useful in the fu
   - Operating Systems
   - Electronics
   - Math
+  - Others
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. This what I will be using to style the notes.
 
