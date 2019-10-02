@@ -3,7 +3,10 @@
 <img src = "https://miro.medium.com/max/1569/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg" width = "600">
 
 - [Artificial Intelligence Intro and Hierarchy](part1.md)
-- [Convolutional Neural Networks](part2.md)
+- [Perceptrons and Sigmoid neurons](part2.md)
+- [Neural Networks](part3.md)
+
+-[Coding with PyTorch](/pytorch/)
 
 
 
