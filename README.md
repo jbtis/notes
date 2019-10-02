@@ -1,6 +1,6 @@
 ## Welcome to my notes
 
-In here, I will write down what I feel is important and will be useful in the future. xx
+Notes from important stuff I learned (and I'm learning) in college.
 
 ### Notes
 
