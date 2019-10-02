@@ -1,6 +1,6 @@
 ## Artificial Intelligence
 
-![Image of AI](http://cs231n.github.io/assets/nn1/neuron_model.jpeg)
+![Image of AI](http://cs231n.github.io/assets/nn1/neuron_model.jpeg | width = 200)
 
 - [Artificial Intelligence Intro and Hierarchy](part1.md)
 - [Convolutional Neural Networks](part2.md)
