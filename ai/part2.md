@@ -1,4 +1,4 @@
-*THIS IS FROM CS231n Course from Standford University#
+*THIS IS FROM CS231n Course from Standford University*
 
 Table of Contents:
 
