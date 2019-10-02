@@ -1,4 +1,4 @@
-## Artificial Intelligence
+## Deep Learning and Neural Networks
 
 <img src = "https://miro.medium.com/max/1569/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg" width = "600">
 
