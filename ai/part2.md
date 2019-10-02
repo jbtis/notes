@@ -1,4 +1,6 @@
-# Perceptrons and Sigmoid Neurons
+# Perceptrons and Sigmoid neurons
+
+To undertand neural networs as a whole, we must first look a the components of it.
 
 ## What are perceptrons?
 
@@ -15,6 +17,12 @@ Let's break down the formula:
 So if the dot product with the help of the bias make it past the threshold, the perceptron will 'fire' and output a 1, if not then it will output a 0. 
 
 <img src = "https://miro.medium.com/max/1794/1*n6sJ4yZQzwKL9wnF5wnVNg.png" width = 400>
+
+## What are Sigmoid neurons?
+
+In practice, having a model that can only output only a 1 or a 0 is not so versatile. A sigmoid neuron can have an output that is any value between 0 or 1, so instead of being a square wave that suddenly jumps from 0 to 1, it smoothly rises to 1.
+
+[Neural Networks](part3.md)
 
 
 
