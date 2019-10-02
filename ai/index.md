@@ -1,9 +1,9 @@
 ## Artificial Intelligence
 
-![Image of AI](https://www.draglet.com/wp-content/uploads/2018/12/ai-blockchain.jpg)
+![Image of AI](http://cs231n.github.io/assets/nn1/neuron_model.jpeg)
 
-- [What is Artificial Intelligence?](part1.md)
-- [Levels of Artificial Intelligence](part2.md)
+- [Artificial Intelligence Intro and Hierarchy](part1.md)
+- [Convolutional Neural Networks](part2.md)
 
 
 
