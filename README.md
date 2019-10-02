@@ -4,7 +4,7 @@ In here, I will write down what I feel is important and well be useful in the fu
 
 ### Notes
 
-  - [Deep Learning and AI] (http://jbtis.github.io/notes/ai/ai.md)
+  - [Deep Learning and AI](http://jbtis.github.io/notes/ai/ai.md)
   - Programming
   - Operating Systems
   - Electronics
