@@ -5,4 +5,21 @@
 - [What is Artificial Intelligence?](part1.md)
 - [Levels of Artificial Intelligence](part2.md)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Resources I'm using](resources.md)
