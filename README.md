@@ -1,6 +1,6 @@
 ## Welcome to my notes
 
-In here, I will wrtie down what I feel is important and well be useful in the future.
+In here, I will wrtie down what I feel is important and well be useful in the future. :alien:
 
 ### Markdown
 
