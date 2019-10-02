@@ -16,7 +16,7 @@ Let's break down the formula:
 
 So if the dot product with the help of the bias make it past the threshold, the perceptron will 'fire' and output a 1, if not then it will output a 0. 
 
-<img src = "https://miro.medium.com/max/1794/1*n6sJ4yZQzwKL9wnF5wnVNg.png" width = 400>
+<img src = "https://miro.medium.com/max/1794/1*n6sJ4yZQzwKL9wnF5wnVNg.png" width = "400">
 
 ## What are Sigmoid neurons?
 
