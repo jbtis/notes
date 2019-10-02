@@ -1,4 +1,4 @@
-# Understading the Hierarchy
+# Understading the Hierarchy y
 
  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
  
