@@ -17,3 +17,5 @@ So if the dot product with the help of the bias make it past the threshold, the 
 <img src = "https://miro.medium.com/max/1794/1*n6sJ4yZQzwKL9wnF5wnVNg.png" width = 400>
 
 
+
+
