@@ -7,19 +7,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Resources I'm using](resources.md)
