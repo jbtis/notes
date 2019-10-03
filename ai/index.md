@@ -10,6 +10,6 @@
 
 
 
-[Coding with PyTorch](/ai/pytorch)
+[Coding with PyTorch](/ai/pytorch/)
 
 [Resources I'm using](resources.md)
