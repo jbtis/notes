@@ -10,4 +10,3 @@ The goal of these notes is to summarize all the concepts in an organized manner 
 
 ***
 [Index](index.md) | [Perceptrons and Sigmoid Neurons](part2.md)
-***
