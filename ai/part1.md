@@ -1,4 +1,4 @@
-# Intro and Plan
+### Intro and Plan
 
 To someone who has not being exposed to the field, artificial intelligence, machine learning and deep learning sound like synonyms. This is not the case. This picture explains it with clarity:
 
