@@ -10,6 +10,5 @@
 
 
 
-[Coding with PyTorch](/ai/pytorch/)
-
-[Resources I'm using](resources.md)
+ - [Coding with PyTorch](http://jbtis.github.io/notes/ai/pytorch/)
+ - [Resources I'm using](resources.md)
