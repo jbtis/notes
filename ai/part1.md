@@ -8,6 +8,6 @@ In these notes, the focus will be deep learning. Therefore programs that don't h
 
 The goal of these notes is to summarize all the concepts in an organized manner for quick access when needed.
 
-***
 [Index](index.md) | [Perceptrons and Sigmoid Neurons](part2.md)
 
+***
