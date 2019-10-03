@@ -4,7 +4,7 @@
 - In Anaconda prompt: `conda install Pytorch -c Pytorch`
 - To check package: `conda list pytorch`
 
--In Jupyter Notebooks 
+In Jupyter Notebooks:
 
 ```python
   import torch
