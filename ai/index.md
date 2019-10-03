@@ -9,6 +9,7 @@
 - [Neural Networks](part3.md)
 
 
+### Others
 
-  - [Coding with PyTorch](http://jbtis.github.io/notes/ai/pytorch/)
-  - [Resources I'm using](resources.md)
+- [Coding with PyTorch](http://jbtis.github.io/notes/ai/pytorch/)
+- [Resources I'm using](resources.md)
