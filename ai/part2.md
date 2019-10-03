@@ -24,7 +24,7 @@ In practice, having a model that can only output only a 1 or a 0 is not so versa
 
 ***
 [Index](index.md) | [Neural Networks](part3.md) 
-***
+
 
 
 
