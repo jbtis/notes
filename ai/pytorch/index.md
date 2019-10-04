@@ -4,6 +4,7 @@
 
 #### Jupyter Notebooks
  - [Disorganized nn theory](Keras1.md)
+ - [Disorganized nn theory 2](disorganized.txt)
  - [Tensor basics](part1_pytorch.md)
  - [Tensor reshaping ops 1](part2_pytorch.md)
  - [Tensor reshaping ops 2](part3_pytorch.md)
