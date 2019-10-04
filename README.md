@@ -2,7 +2,9 @@
 
   - [Deep Learning and Neural Neworks](http://jbtis.github.io/notes/ai/)
   
-  Future:
+  ***
+  
+  *Future:*
   
   - [Programming](http://jbtis.github.io/notes/programming/)
   - [Operating Systems](http://jbtis.github.io/notes/os/)
