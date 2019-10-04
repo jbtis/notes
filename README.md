@@ -1,6 +1,9 @@
 ### Topics
 
   - [Deep Learning and Neural Neworks](http://jbtis.github.io/notes/ai/)
+  
+  Future:
+  
   - [Programming](http://jbtis.github.io/notes/programming/)
   - [Operating Systems](http://jbtis.github.io/notes/os/)
   - [Electric Circuits and Electronics](http://jbtis.github.io/notes/electronics/)
