@@ -12,3 +12,6 @@ In Jupyter Notebooks:
   torch.cuda.is_available()
   torch.version.cuda
   ```
+  
+  Others:
+  - [nbconvert](https://ipython.org/ipython-doc/dev/notebook/nbconvert.html)
