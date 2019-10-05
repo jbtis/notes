@@ -84,3 +84,5 @@ element wise operations:
 Operation between elements of two different tensors that are corresponding elements
 corresponding elemetns are elements that ocuppy the same index position
 
+
+
