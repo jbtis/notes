@@ -1,6 +1,6 @@
 ### Topics
 
-  - [ESE 440: Deep Learning and Neural Neworks](http://jbtis.github.io/notes/ai/)
+  - [ESE 440: Deep Learning and Neural Neworks Notes](http://jbtis.github.io/notes/ai/)
   
   ***
   
