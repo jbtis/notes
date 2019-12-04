@@ -11,4 +11,3 @@
 
 - [Artificial Intelligence Intro and Hierarchy](part1.md)
 - [Perceptrons and Sigmoid neurons](part2.md)
-- [Test](tensor_basics_1.md)
