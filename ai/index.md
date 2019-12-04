@@ -11,3 +11,6 @@
 
 - [Artificial Intelligence Intro and Hierarchy](part1.md)
 - [Perceptrons and Sigmoid neurons](part2.md)
+
+#### Wandb
+- [profile](https://app.wandb.ai/jbtis)
