@@ -7,6 +7,7 @@
 - [Artificial Intelligence Intro and Hierarchy](part1.md)
 - [Perceptrons and Sigmoid neurons](part2.md)
 - [Neural Networks](part3.md)
+- [Test](tensor_basics_1.ipynb)
 
 
 #### Others
