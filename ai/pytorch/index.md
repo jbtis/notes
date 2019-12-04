@@ -11,20 +11,20 @@
 - [Tensor basics 6](tensor_basics_6.md)
 
 #### Part 2: CNN building
--[CNN building 1](cnn_building_1.md)
--[CNN building 2](cnn_building_2.md)
--[CNN building 3](cnn_building_3.md)
--[CNN building 4](cnn_building_4.md)
--[CNN building 5](cnn_building_5.md)
--[CNN building 6](cnn_building_6.md)
--[CNN building 7](cnn_building_7.md)
+- [CNN building 1](cnn_building_1.md)
+- [CNN building 2](cnn_building_2.md)
+- [CNN building 3](cnn_building_3.md)
+- [CNN building 4](cnn_building_4.md)
+- [CNN building 5](cnn_building_5.md)
+- [CNN building 6](cnn_building_6.md)
+- [CNN building 7](cnn_building_7.md)
 
 #### Part 3: CNN training
--[CNN training 1](cnn_training_1.md)
--[CNN training 2](cnn_training_2.md)
--[CNN training 3](cnn_training_3.md)
--[CNN training 4](cnn_training_4.md)
--[CNN training 5](cnn_training_5.md)
+- [CNN training 1](cnn_training_1.md)
+- [CNN training 2](cnn_training_2.md)
+- [CNN training 3](cnn_training_3.md)
+- [CNN training 4](cnn_training_4.md)
+- [CNN training 5](cnn_training_5.md)
 
 #### Misc (old)
  - [Disorganized nn theory](Keras1.md)
